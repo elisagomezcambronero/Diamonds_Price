@@ -34,5 +34,12 @@ Para las variables categoricas, se ha realizado un ecnonding con orden dando mas
 - **data**: Se encuentran los pickles y las submissions
 - **images**: las imagenes utilizadas para este readme. 
         
-
+   ## Librerias
+- [Pandas](https://pandas.pydata.org/)
+- [Numpy](https://numpy.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Scipy](https://scipy.org/)
+- [Warnings]
+- [Scikit-learn](https://docs.python.org/3/library/warnings.html)
 
