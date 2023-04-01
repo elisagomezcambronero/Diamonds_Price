@@ -40,6 +40,6 @@ Para las variables categoricas, se ha realizado un ecnonding con orden dando mas
 - [Seaborn](https://seaborn.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [Scipy](https://scipy.org/)
-- [Warnings]
+- Warnings
 - [Scikit-learn](https://docs.python.org/3/library/warnings.html)
 
